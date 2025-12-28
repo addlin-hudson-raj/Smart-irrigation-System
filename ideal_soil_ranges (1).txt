@@ -1,0 +1,11 @@
+Soil_Type Ideal_Min_Temperature Ideal_Max_Temperature Ideal_Min_Moisture Ideal_Max_Moisture
+Alluvial 27.0 30.9 55.1 63.9
+Red 29.0 32.5 44.5 53.3
+Laterite 29.0 32.9 38.2 49.3
+Black 25.1 30.0 60.5 69.3
+Desert 34.1 41.9 6.2 24.9
+Clay 25.2 29.0 60.1 69.6
+Forest 20.1 25.8 68.3 78.0
+Sandy 30.4 33.9 38.2 47.7
+Peaty 18.8 23.7 75.1 87.7
+Loamy 25.0 27.9 52.0 58.0
